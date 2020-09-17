@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190784280214",
+    "firebase_url": "https://androidtraining-b9c56.firebaseio.com",
+    "project_id": "androidtraining-b9c56",
+    "storage_bucket": "androidtraining-b9c56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190784280214:android:4609f0600cdf2244c494b7",
+        "android_client_info": {
+          "package_name": "co.com.miguelvillan.firebasepushmesage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190784280214-ndm7jcj7td4t0sm12hdijl8jjbpml596.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi60_e09HXJ-3ebQ5flV_O3I33Shio3qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190784280214-ndm7jcj7td4t0sm12hdijl8jjbpml596.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
